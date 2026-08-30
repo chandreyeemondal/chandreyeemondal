@@ -4,9 +4,9 @@
 
 Currently a **Dual Degree student at IIT Kharagpur**, currently pursuing a five-year B.Tech. and M.Tech. program in Chemical Engineering.
 
-I am interested in understanding how **engineering principles, mathematics, computation, and technology** can come together to solve real-world problems.
+I am interested in understanding how **engineering principles, mathematics, computation and technology** can come together to solve real-world problems.
 
-My academic and project experience has taken me from chemical process engineering and experimental work to **mathematical modeling, numerical simulation, scientific computing, and machine learning**.
+My academic and project experience has taken me from chemical process engineering and experimental work to **mathematical modeling, numerical simulation, scientific computing and machine learning**.
 
 ---
 
@@ -14,7 +14,7 @@ My academic and project experience has taken me from chemical process engineerin
 
 Currently, I am working on a research project involving the **mathematical and computational modeling of non-adhesive cell migration**.
 
-I am developing computational models using **Python, SciPy, and SymPy**, working with nonlinear differential equations, non-dimensionalization, and numerical boundary-value methods.
+I am developing computational models using **Python, SciPy, and SymPy**, working with nonlinear differential equations, non-dimensionalization and numerical boundary-value methods.
 
 Alongside research, I am building my programming and computational skills through:
 
@@ -34,13 +34,13 @@ I am also exploring how these computational approaches can be applied to chemica
 
 I believe that modern engineering is increasingly connected to **computation and data-driven problem solving**.
 
-As a Chemical Engineer, I want to go beyond using engineering equations only for manual calculations. I want to understand how mathematical models can be translated into **computational tools, simulations, and intelligent systems** that can help solve complex problems.
+As a Chemical Engineer, I want to go beyond using engineering equations only for manual calculations. I want to understand how mathematical models can be translated into **computational tools, simulations and intelligent systems** that can help solve complex problems.
 
 This is why I am building my skills across:
 
 **Chemical Engineering + Mathematics + Programming + Simulation + AI/ML**
 
-My goal is to develop the ability to take a real-world problem, understand its underlying physics or mathematics, build a computational model, analyze the results, and communicate the solution effectively.
+My goal is to develop the ability to take a real-world problem, understand its underlying physics or mathematics, build a computational model, analyze the results and communicate the solution effectively.
 
 ---
 
